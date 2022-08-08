@@ -16,3 +16,6 @@ It also contains a 'run number' this is used to identify the individual simulati
 The output files contain the results produced when a collision occurs. This includes the speed of collision and where on the animal the collision occurs. 
 The results from this are matched to the input file using 'run number'. 
 This then allows analysis of number of collisions vs the the number of simulations and further detailed analysis on collision parameters, where on the device or animal collisions occur etc.
+
+
+[Data folder location](https://github.com/nicholashorne1/crm/tree/Mortality-Estimates/data)
