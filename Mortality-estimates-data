@@ -1,5 +1,0 @@
-Location for the data repository for the paper "Providing a detailed estimate of mortality using a simulation-based collision risk model" submitted to Plos One.
-
-The data consists of output files and input files from the simulation-based approach to collision risk. 
-The input files provide the full number of simualtions ran with the starting positions, animal and tidal speeds tested and run number for that individual simulation. 
-The output files give the corresponding run number for the simulation alongside the location of the collision and the speed of that collision.
